@@ -1,0 +1,2 @@
+../lvgl/tests/src/test_libs/rnd_unicodes/lv_rnd_unicodes.c:53:10:RANDOM_CALL_PROCESS	8	static
+../lvgl/tests/src/test_libs/rnd_unicodes/lv_rnd_unicodes.c:58:5:lv_random_utf8_chars	32	static

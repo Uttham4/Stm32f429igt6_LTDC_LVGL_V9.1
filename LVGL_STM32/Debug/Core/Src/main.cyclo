@@ -1,0 +1,17 @@
+../Core/Src/../../lvgl/src/core/../misc/../font/../draw/../misc/lv_color.h:272:26:lv_color_hex	1
+../Core/Src/../../lvgl/src/core/../misc/../font/../draw/../misc/lv_color.h:288:26:lv_color_make	1
+../Core/Src/../../lvgl/src/core/../display/lv_display.h:392:26:lv_screen_active	1
+../Core/Src/../../lvgl/src/lv_api_map_v8.h:61:51:lv_task_handler	1
+../Core/Src/main.c:115:6:HAL_SYSTICK_Callback	1
+../Core/Src/main.c:120:6:put_px	1
+../Core/Src/main.c:128:6:my_flush_cb	3
+../Core/Src/main.c:168:5:main	1
+../Core/Src/main.c:255:6:SystemClock_Config	4
+../Core/Src/main.c:311:13:MX_CRC_Init	2
+../Core/Src/main.c:337:13:MX_DMA2D_Init	3
+../Core/Src/main.c:374:13:MX_LTDC_Init	4
+../Core/Src/main.c:455:13:MX_SDIO_SD_Init	1
+../Core/Src/main.c:479:13:MX_FMC_Init	3
+../Core/Src/main.c:568:13:MX_GPIO_Init	1
+../Core/Src/main.c:658:6:SDRAM_Initialization_Sequence	1
+../Core/Src/main.c:738:6:Error_Handler	1

@@ -1,0 +1,7 @@
+../lvgl/examples/widgets/buttonmatrix/../../../src/core/../misc/../font/../draw/../misc/lv_color.h:288:26:lv_color_make	1
+../lvgl/examples/widgets/buttonmatrix/../../../src/core/../misc/../font/../draw/../misc/lv_color.h:415:26:lv_color_white	1
+../lvgl/examples/widgets/buttonmatrix/../../../src/core/../misc/../font/../draw/../misc/lv_color.h:424:26:lv_color_black	1
+../lvgl/examples/widgets/buttonmatrix/../../../src/core/../display/lv_display.h:392:26:lv_screen_active	1
+../lvgl/examples/widgets/buttonmatrix/../../../src/core/lv_obj_pos.h:198:20:lv_obj_center	1
+../lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c:4:13:event_cb	17
+../lvgl/examples/widgets/buttonmatrix/lv_example_buttonmatrix_2.c:79:6:lv_example_buttonmatrix_2	1
